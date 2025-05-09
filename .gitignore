@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Robot Framework output
+output.xml
+log.html
+report.html
+*.png
+*.har
+*.txt
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python egg files
+*.egg-info/
+.eggs/
+
+# Pip wheel files
+*.whl
+
+# Test and coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
